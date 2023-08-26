@@ -1,7 +1,7 @@
 '''
 DNS tool to automate DNS enum
 
-Author: Karim (@fsociety_py00)(mr.nobody)
+Author: Karim (@fsociety_py00)(github.com/cpu0x00)
 '''
 import dns.resolver
 import dns.zone
